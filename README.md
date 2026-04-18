@@ -24,4 +24,4 @@ This project is an interactive Excel dashboard created to analyze sales and prof
 
 ## 🚀 Outcome
 
-This project helped me understand data visualization and business insights using Excel.
+This project improved my ability to analyze data, build interactive dashboards, and generate business insights using Excel.
